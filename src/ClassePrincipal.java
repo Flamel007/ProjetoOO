@@ -2,8 +2,10 @@
 public class ClassePrincipal {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
+		//OBJETO
+		 ClassePessoas obj1 = new ClassePessoas();
+		 ClassePessoas obj2 = new ClassePessoas("FLamel", "777", 2500);
+		 
 	}
 
 }
